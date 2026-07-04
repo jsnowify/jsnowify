@@ -8,9 +8,8 @@
   <br><br>
 
   <a href="mailto:joshuacambronero.personal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFD9B3?style=flat-square&logoColor=4A3B4E&color=FFD9B3&labelColor=FFD9B3" alt="email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-B8CFE8?style=flat-square&labelColor=B8CFE8&color=B8CFE8" alt="linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-D6C2EA?style=flat-square&labelColor=D6C2EA&color=D6C2EA" alt="github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-B8E8D4?style=flat-square&labelColor=B8E8D4&color=B8E8D4" alt="portfolio"/></a>
+  <a href="https://www.linkedin.com/in/joshua-cambronero/"><img src="https://img.shields.io/badge/LINKEDIN-B8CFE8?style=flat-square&labelColor=B8CFE8&color=B8CFE8" alt="linkedin"/></a>
+  <a href="https://snowi-swjc.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-B8E8D4?style=flat-square&labelColor=B8E8D4&color=B8E8D4" alt="portfolio"/></a>
 
   <br><br>
   <img src="./flower.gif" width="70%" alt="">
