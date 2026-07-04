@@ -12,7 +12,7 @@
   <a href="https://snowi-swjc.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-B8E8D4?style=flat-square&labelColor=B8E8D4&color=B8E8D4" alt="portfolio"/></a>
 
   <br><br>
-  <img src="./frieren.gif" width="70%" alt="">
+  <img src="./frieren-green.gif" width="70%" alt="">
 </div>
 
 <br>
@@ -62,7 +62,7 @@ i don't hand designs off to "someone else who builds it" — i'm both people, so
 <br>
 
 <div align="center">
-  <img src="./frieren-green.gif" width="70%" alt="">
+  <img src="./frieren.gif" width="70%" alt="">
 
   <br><br>
   <sub>thanks for stopping by — say hi anytime 💚</sub>
