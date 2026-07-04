@@ -1,55 +1,66 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Joshua Cambronero — full-stack developer and graphic designer, Davao del Sur, Philippines">
+  <img src="./assets/mascot.svg" width="180" alt="a little pixel blob with EQ-bar antennae, waving hello">
+
+  <h1>hii, I'm Joshua! 🎧✨</h1>
+
+  <sub>full-stack developer & graphic designer &nbsp;·&nbsp; Davao del Sur, Philippines</sub>
+
+  <br><br>
+
+  <a href="mailto:joshuacambronero.personal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFD9B3?style=flat-square&logoColor=4A3B4E&color=FFD9B3&labelColor=FFD9B3" alt="email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-B8CFE8?style=flat-square&labelColor=B8CFE8&color=B8CFE8" alt="linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GITHUB-D6C2EA?style=flat-square&labelColor=D6C2EA&color=D6C2EA" alt="github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-B8E8D4?style=flat-square&labelColor=B8E8D4&color=B8E8D4" alt="portfolio"/></a>
+
+  <br><br>
+  <img src="./assets/wave-divider.svg" width="70%" alt="">
 </div>
 
 <br>
 
-I build things that listen, and design things that speak clearly. My capstone project is literally a noise-detection app — and honestly, that's a decent metaphor for the rest of what I do: take something messy (a rough idea, a chaotic student org request, a half-formed feature) and resolve it into something clean, working, and good-looking.
+## 🌙 a little about me
+
+I'm finishing my B.S. in Information Technology at Davao del Sur State College (grad Aug 2026), and I spend most of my time in that weird overlap between *"can you build this"* and *"can you make it not look like a school project."* Turns out I can usually do both, which is how I ended up doing full-stack dev **and** being my org's go-to poster designer at the same time.
+
+My capstone app listens for noise. I like to think that's basically what I do for a living too — take something messy and turn it into something clean, working, and kind of nice to look at. 🎧
 
 <br>
 
-## right now
+## 💌 currently
 
-- Finishing my B.S. in Information Technology at Davao del Sur State College (expected Aug 2026)
-- Building **DSS-Connectify**, a React Native social app for my campus community — targeting 100+ students
-- Still the person my org pings when they need a poster designed by tomorrow morning
-
-<br>
-
-## things I've actually shipped
-
-Not a badge wall — real projects, real constraints, real numbers.
-
-**Snuzz** — *native Android noise-detection app (Kotlin)*
-Captures live audio from the device mic, processes it in real time, and syncs everything through Firebase. Built solo, from architecture to UI.
-
-**DSS-Confessions** — *full-stack web app (React + Node.js + Supabase)*
-Onboarded 40+ users in its first weeks. Locked down with XSS filtering, API rate limiting, and Postgres Row-Level Security — because "just a fun confessions site" still needs to not leak data.
-
-**DSS-Connectify** — *React Native social app, in progress*
-Android-first UX for student networking, built to scale toward real-time feeds. Currently the biggest thing on my plate.
+- wrapping up **DSS-Connectify**, a React Native app for my campus community — building toward 100+ students using it
+- one semester away from graduating
+- still the person my org DMs at 11pm for "just one small poster 🙏"
 
 <br>
 
-## how the two halves of my brain split the work
+## 🧸 things I've made
 
-| The developer reaches for | The designer reaches for |
+**Snuzz** — *capstone, native Android (Kotlin)*
+A noise-detection app that listens through the device mic in real time and syncs everything through Firebase. Solo project, from the architecture up.
+
+**DSS-Confessions** — *React · Node.js · Supabase*
+A confessions site for my school community — 40+ people used it in the first few weeks. Behind the cute exterior: XSS filtering, rate limiting, and proper Row-Level Security, because "just a fun site" still needs to hold up.
+
+**DSS-Connectify** — *React Native, in progress*
+A social app built for and with my campus, Android-first, designed for the way students actually scroll and network.
+
+<br>
+
+## 🎨 how I work
+
+|  |  |
 |---|---|
-| JavaScript, Kotlin, Java, Python, SQL | Figma |
-| React, React Native, Android SDK | Adobe Illustrator |
-| Node.js, Django, Firebase, Supabase | Affinity Designer |
-| Git & GitHub, API integration | Canva |
+| 💻 **the dev side reaches for** | JavaScript · Kotlin · Java · Python · SQL · React · React Native · Node.js · Django · Firebase · Supabase · Git |
+| 🖌️ **the designer side reaches for** | Figma · Adobe Illustrator · Affinity Designer · Canva |
 
-They meet in the middle on every project — I don't hand off designs to "someone else," I build the thing I designed, so nothing gets lost in translation.
-
-<br>
-
-## reach me
-
-📧 joshuacambronero.personal@gmail.com · 💼 [LinkedIn](#) · 🌐 [Portfolio](#) · 🐙 you're already here
+I don't hand designs off to "someone else who builds it" — I'm both people, so nothing gets lost between the mockup and the merge.
 
 <br>
 
 <div align="center">
-<sub>currently accepting: full-stack collabs, campus poster emergencies, and noise complaints.</sub>
+  <img src="./assets/wave-divider.svg" width="70%" alt="">
+
+  <br><br>
+  <sub>thanks for stopping by — say hi anytime 🩵</sub>
 </div>
