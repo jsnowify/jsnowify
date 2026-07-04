@@ -62,7 +62,7 @@ i don't hand designs off to "someone else who builds it" — i'm both people, so
 <br>
 
 <div align="center">
-  <img src="./assets/wave-divider.svg" width="70%" alt="">
+  <img src="./frieren-green.gif" width="70%" alt="">
 
   <br><br>
   <sub>thanks for stopping by — say hi anytime 💚</sub>
