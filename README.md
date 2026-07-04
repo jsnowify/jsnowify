@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mascot.svg" width="180" alt="a little pixel blob with EQ-bar antennae, waving hello">
+  <img src="snowieh.gif" width="180" alt="snowiwi">
 
   <h1>hii, I'm Joshua! 🎧✨</h1>
 
