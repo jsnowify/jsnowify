@@ -36,7 +36,7 @@ my capstone app listens for noise. i like to think that's basically what i do fo
 
 ## 🧸 things i've made
 
-**Snuzz** — *capstone, native Android (Kotlin)*
+**Snuzz** — *Capstone, Native Android (Kotlin)*
 a noise-detection app that listens through the device mic in real time and syncs everything through Firebase. solo project, from the architecture up.
 
 **DSS-Confessions** — *React · Node.js · Supabase*
