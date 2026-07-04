@@ -12,7 +12,7 @@
   <a href="https://snowi-swjc.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-B8E8D4?style=flat-square&labelColor=B8E8D4&color=B8E8D4" alt="portfolio"/></a>
 
   <br><br>
-  <img src="./flower.gif" width="70%" alt="">
+  <img src="./frieren.gif" width="70%" alt="">
 </div>
 
 <br>
