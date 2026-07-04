@@ -54,7 +54,7 @@ a private mood-sharing app for small friend circles (3–10 people) — daily vi
 
 |  |  |
 |---|---|
-| 💻 **the dev side reaches for** | JavaScript · Kotlin · Java · Python · SQL · React · React Native · Node.js · Django · Firebase · Supabase · Git |
+| 💻 **the dev side reaches for** | JavaScript · Kotlin · Java · Python · SQL · React · React Native · Node.js · Django · Firebase · Supabase · MySQL · MongoDB · Git |
 | 🖌️ **the designer side reaches for** | Figma · Adobe Illustrator · Affinity Designer · Canva |
 
 i don't hand designs off to "someone else who builds it" — i'm both people, so nothing gets lost between the mockup and the merge.
