@@ -1,7 +1,7 @@
 <div align="center">
   <img src="snowieh.gif" width="180" alt="snowiwi">
 
-  <h1>hii, I'm Joshua! 🎧✨</h1>
+  <h1>hiii, i'm joshua but you can call me snowi 🎧✨</h1>
 
   <sub>full-stack developer & graphic designer &nbsp;·&nbsp; Davao del Sur, Philippines</sub>
 
@@ -19,9 +19,9 @@
 
 ## 🌙 a little about me
 
-I'm finishing my B.S. in Information Technology at Davao del Sur State College (grad Aug 2026), and I spend most of my time in that weird overlap between *"can you build this"* and *"can you make it not look like a school project."* Turns out I can usually do both, which is how I ended up doing full-stack dev **and** being my org's go-to poster designer at the same time.
+i'm finishing my B.S. in Information Technology at Davao del Sur State College (grad jul 2026), and i spend most of my time in that weird overlap between *"can you build this"* and *"can you make it not look like a school project."* turns out i can usually do both, which is how i ended up doing software dev **and** being my org's go-to poster designer at the same time.
 
-My capstone app listens for noise. I like to think that's basically what I do for a living too — take something messy and turn it into something clean, working, and kind of nice to look at. 🎧
+my capstone app listens for noise. i like to think that's basically what i do for a living too — take something messy and turn it into something clean, working, and kind of nice to look at. 🎧
 
 <br>
 
@@ -30,19 +30,23 @@ My capstone app listens for noise. I like to think that's basically what I do fo
 - wrapping up **DSS-Connectify**, a React Native app for my campus community — building toward 100+ students using it
 - one semester away from graduating
 - still the person my org DMs at 11pm for "just one small poster 🙏"
-
+- designing **miwi** — a cozy, private mood-sharing app for small friend circles, no algorithm, no likes, no performing for an audience
+  
 <br>
 
 ## 🧸 things I've made
 
 **Snuzz** — *capstone, native Android (Kotlin)*
-A noise-detection app that listens through the device mic in real time and syncs everything through Firebase. Solo project, from the architecture up.
+a noise-detection app that listens through the device mic in real time and syncs everything through Firebase. solo project, from the architecture up.
 
 **DSS-Confessions** — *React · Node.js · Supabase*
-A confessions site for my school community — 40+ people used it in the first few weeks. Behind the cute exterior: XSS filtering, rate limiting, and proper Row-Level Security, because "just a fun site" still needs to hold up.
+a confessions site for my school community — 40+ people used it in the first few weeks. Behind the cute exterior: xss filtering, rate limiting, and proper row-level security, because "just a fun site" still needs to hold up.
 
 **DSS-Connectify** — *React Native, in progress*
-A social app built for and with my campus, Android-first, designed for the way students actually scroll and network.
+a social app built for and with my campus, android-first, designed for the way students actually scroll and network.
+
+**miwi** — *app concept, in development* 🌿
+a private mood-sharing app for small friend circles (3–10 people) — daily vibe check-ins instead of a feed to perform for. mood-tagged posts, soft private reactions instead of like counts, story rings that just quietly go dark if you miss a day, and zero algorithm, ever. currently in the design phase — figuring out the feed, the mood picker, and a monthly "miwi memories" recap.
 
 <br>
 
@@ -53,7 +57,7 @@ A social app built for and with my campus, Android-first, designed for the way s
 | 💻 **the dev side reaches for** | JavaScript · Kotlin · Java · Python · SQL · React · React Native · Node.js · Django · Firebase · Supabase · Git |
 | 🖌️ **the designer side reaches for** | Figma · Adobe Illustrator · Affinity Designer · Canva |
 
-I don't hand designs off to "someone else who builds it" — I'm both people, so nothing gets lost between the mockup and the merge.
+i don't hand designs off to "someone else who builds it" — i'm both people, so nothing gets lost between the mockup and the merge.
 
 <br>
 
