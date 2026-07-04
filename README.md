@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/mascot.svg" width="180" alt="a little pixel blob with EQ-bar antennae, waving hello">
+  <img src="./mascot.svg" width="180" alt="a little pixel blob with EQ-bar antennae, waving hello">
 
   <h1>hii, I'm Joshua! 🎧✨</h1>
 
@@ -13,7 +13,7 @@
   <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-B8E8D4?style=flat-square&labelColor=B8E8D4&color=B8E8D4" alt="portfolio"/></a>
 
   <br><br>
-  <img src="./assets/wave-divider.svg" width="70%" alt="">
+  <img src="./wave-divider.svg" width="70%" alt="">
 </div>
 
 <br>
