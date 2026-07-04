@@ -13,7 +13,7 @@
   <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-B8E8D4?style=flat-square&labelColor=B8E8D4&color=B8E8D4" alt="portfolio"/></a>
 
   <br><br>
-  <img src="./wave-divider.svg" width="70%" alt="">
+  <div class="tenor-gif-embed" data-postid="22528760" data-share-method="host" data-aspect-ratio="1.50943" data-width="100%"><a href="https://tenor.com/view/bekind-discord-divider-imcool-gif-22528760">Bekind Discord GIF</a>from <a href="https://tenor.com/search/bekind-gifs">Bekind GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <br>
