@@ -1,7 +1,7 @@
 <div align="center">
   <img src="snowieh.gif" width="180" alt="snowiwi">
 
-  <h1>hiii, i'm joshua but you can call me snowi 🎧✨</h1>
+  <h1>hiii, i'm joshua but you can call me snowi 🍀</h1>
 
   <sub>creative web design engineer & graphic designer &nbsp;·&nbsp; Davao del Sur, Philippines</sub>
 
