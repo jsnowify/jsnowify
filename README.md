@@ -3,7 +3,7 @@
 
   <h1>hiii, i'm joshua but you can call me snowi 🎧✨</h1>
 
-  <sub>full-stack developer & graphic designer &nbsp;·&nbsp; Davao del Sur, Philippines</sub>
+  <sub>creative web design engineer & graphic designer &nbsp;·&nbsp; Davao del Sur, Philippines</sub>
 
   <br><br>
 
@@ -19,7 +19,7 @@
 
 ## 🌙 a little about me
 
-i'm finishing my B.S. in Information Technology at Davao del Sur State College (grad jul 2026), and i spend most of my time in that weird overlap between *"can you build this"* and *"can you make it not look like a school project."* turns out i can usually do both, which is how i ended up doing software dev **and** being my org's go-to poster designer at the same time.
+i'm finishing my B.S. in Information Technology at Davao del Sur State College (grad jul 2027), and i spend most of my time in that weird overlap between *"can you build this"* and *"can you make it not look like a school project."* turns out i can usually do both, which is how i ended up doing software dev **and** being my org's go-to poster designer at the same time.
 
 my capstone app listens for noise. i like to think that's basically what i do for a living too — take something messy and turn it into something clean, working, and kind of nice to look at. 🎧
 
@@ -54,7 +54,7 @@ a private mood-sharing app for small friend circles (3–10 people) — daily vi
 
 |  |  |
 |---|---|
-| 💻 **the dev side reaches for** | JavaScript · Kotlin · Java · Python · SQL · React · React Native · Node.js · Django · Firebase · Supabase · MySQL · MongoDB · Git |
+| 💻 **the dev side reaches for** | JavaScript · Kotlin · Java · Python · SQL · React · React Native · Next.js · Node.js · Django · Firebase · Supabase · MySQL · MongoDB · Git · GSAP · Motion.dev|
 | 🖌️ **the designer side reaches for** | Figma · Adobe Illustrator · Affinity Designer · Canva |
 
 i don't hand designs off to "someone else who builds it" — i'm both people, so nothing gets lost between the mockup and the merge.
